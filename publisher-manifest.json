@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f2d65b1549e67b47a1ffbdf9",
+  "owner": "erjwrgjj",
+  "repo": "page-8e733aab662c9e5a62f81d9e",
+  "title": "365VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8e733aab662c9e5a62f81d9e",
+      "a": "365VPN",
+      "b": "",
+      "entity": "365VPN",
+      "brand": "365VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2b3cdd8f008a59eedba5964aded4fe16f8a524838dd26d546c38ce80b87392a3",
+      "content": {
+        "keyword1": "365VPN",
+        "keyword2": "",
+        "primary_entity": "365VPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "365VPN 高速VPN加速器，提供安全稳定的VPN加速服务，解锁流媒体，高速节点池，客户端一键安装，官网下载享受无限制加速。",
+          "AI_DESCRIPTION": "365VPN 高速VPN加速器，提供安全稳定的VPN加速服务，解锁流媒体，高速节点池，客户端一键安装，官网下载享受无限制加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  background-color: #faf8f5;\n  color: #333;\n  font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n  line-height: 1.7;\n  margin: 0;\n  padding: 0;\n}\nheader {\n  background: white;\n  box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n  position: sticky;\n  top: 0;\n  z-index: 100;\n}\nnav {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 1rem 2rem;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n.logo {\n  font-size: 2rem;\n  font-weight: 700;\n  color: #ff6b6b;\n  text-decoration: none;\n}\n.nav ul {\n  list-style: none;\n  display: flex;\n  gap: 2rem;\n  margin: 0;\n  padding: 0;\n}\n.nav a {\n  color: #333;\n  text-decoration: none;\n  font-size: 1rem;\n  font-weight: 500;\n}\n.nav a:hover {\n  color: #ff6b6b;\n}\n.hero {\n  background: linear-gradient(135deg, #ff6b6b, #ff8a65);\n  color: white;\n  text-align: center;\n  padding: 5rem 1rem 4rem;\n  max-width: 1200px;\n  margin: 0 auto;\n}\n.hero h1 {\n  font-size: 3.5rem;\n  margin: 0 0 1.5rem;\n  line-height: 1.2;\n}\n.hero p {\n  font-size: 1.3rem;\n  max-width: 700px;\n  margin: 0 auto;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 0 2rem;\n}\nsection {\n  margin-bottom: 4rem;\n}\nh2 {\n  font-size: 2.2rem;\n  color: #ff6b6b;\n  margin-bottom: 1.5rem;\n  border-bottom: 3px solid #ff6b6b;\n  padding-bottom: 0.5rem;\n}\np {\n  font-size: 1.1rem;\n  margin-bottom: 1rem;\n}\nul, ol {\n  padding-left: 1.5rem;\n}\nli {\n  margin-bottom: 0.8rem;\n  font-size: 1.1rem;\n}\ndetails {\n  margin-bottom: 1.5rem;\n  border: 1px solid #eee;\n  border-radius: 8px;\n  overflow: hidden;\n}\nsummary {\n  padding: 1rem;\n  font-size: 1.25rem;\n  font-weight: 600;\n  cursor: pointer;\n  background: #fff;\n}\nsummary:hover {\n  background: #fff0f0;\n}\nol {\n  counter-reset: step;\n}\nli {\n  position: relative;\n  padding-left: 2.5rem;\n  margin-bottom: 1.5rem;\n}\nli:before {\n  content: counter(step);\n  counter-increment: step;\n  position: absolute;\n  left: 0;\n  top: 0.3rem;\n  width: 2rem;\n  height: 2rem;\n  background-color: #ff6b6b;\n  color: white;\n  border-radius: 50%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-size: 1.1rem;\n  font-weight: bold;\n}\n#plans, #clients {\n  background: white;\n  padding: 2rem;\n  border-radius: 12px;\n  box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n}\nfooter {\n  background: #333;\n  color: white;\n  text-align: center;\n  padding: 2rem;\n  font-size: 0.95rem;\n}\nfooter a {\n  color: #ff6b6b;\n  margin: 0 1rem;\n}\n@media (max-width: 768px) {\n  .hero h1 {\n    font-size: 2.5rem;\n  }\n  nav ul {\n    gap: 1rem;\n  }\n  body {\n    font-size: 1rem;\n  }\n}\n</style>\n\n\n<header>\n  <nav>\n    <div class=\"logo\">365VPN</div>\n    <ul class=\"nav\">\n      <li><a href=\"#intro\">品牌简介</a></li>\n      <li><a href=\"#scenarios\">使用场景</a></li>\n      <li><a href=\"#config\">配置流程</a></li>\n      <li><a href=\"#faq\">常见问题</a></li>\n      <li><a href=\"#plans\">套餐选择</a></li>\n    </ul>\n  </nav>\n</header>\n<main>\n  <section class=\"hero\">\n    <h1>365VPN 高速VPN加速器</h1>\n    <p>安全稳定，高速节点，助力您畅享全球网络</p>\n  </section>\n  <section id=\"intro\">\n    <h2>品牌简介</h2>\n    <p>365VPN致力于提供优质的VPN加速服务，为用户带来安全、快速、稳定的网络体验。我们支持多种设备，满足个人和团队需求。</p>\n  </section>\n  <section id=\"scenarios\">\n    <h2>使用场景</h2>\n    <p>365VPN适用于以下场景：</p>\n    <ul>\n      <li>解锁流媒体平台</li>\n      <li>游戏网络加速</li>\n      <li>远程办公</li>\n      <li>隐私保护</li>\n    </ul>\n  </section>\n  <section id=\"config\">\n    <h2>配置流程</h2>\n    <ol>\n      <li>访问官网下载客户端</li>\n      <li>安装并打开程序</li>\n      <li>注册账号登录</li>\n      <li>选择节点连接</li>\n      <li>完成配置享受加速</li>\n    </ol>\n  </section>\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <details>\n      <summary>365VPN 是什么？</summary>\n      <p>365VPN 是一款专业的VPN加速器，提供全球高速节点，让您畅享稳定网络连接。</p>\n    </details>\n    <details>\n      <summary>如何下载客户端？</summary>\n      <p>请访问官网下载最新客户端，一键安装即可使用。</p>\n    </details>\n    <details>\n      <summary>支持哪些设备？</summary>\n      <p>支持多设备同时在线，具体以套餐选择为准。</p>\n    </details>\n    <details>\n      <summary>如何选择套餐？</summary>\n      <p>基础版适合个人用户，旗舰版提供游戏加速优化，团队版适合企业用户。</p>\n    </details>\n    <details>\n      <summary>配置后如何连接？</summary>\n      <p>选择线路节点后，点击连接按钮即可加速上网。</p>\n    </details>\n  </section>\n  <section id=\"plans\">\n    {{PLANS_HTML}}\n  </section>\n  <section id=\"clients\">\n    {{CLIENTS_HTML}}\n  </section>\n  \n</main>\n<footer>\n  <nav>\n    <a href=\"#intro\">品牌简介</a> |\n    <a href=\"#faq\">常见问题</a> |\n    <a href=\"#plans\">套餐选择</a>\n  </nav>\n  <p>© 2024 365VPN 版权所有</p>\n</footer>\n\n",
+          "hash": "2cad281ffd8ae07f8b565c9c9c60192bd17441258c35d950910c16f35b8b8422",
+          "seo": {
+            "title": "365VPN 高速VPN加速器 | 官网下载与订阅",
+            "keywords": "365VPN,VPN加速器,机场订阅,客户端下载,VPN节点,365VPN官网",
+            "description": "365VPN 高速VPN加速器，提供安全稳定的VPN加速服务，解锁流媒体，高速节点池，客户端一键安装，官网下载享受无限制加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "eventspot.cn",
+    "host": "c.eventspot.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f2f868fad3e933f4f736699f6cb1013004271c09cf25593ae56f0f116cc794e3",
+    "sitemap.xml": "338d5e1331b39c6c831b81a06f24b3817a2c1e51ba02f276dd87e49c0b947cdd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9db73313c91dec95d784517ecb09ebc4043b32c204200e4be8c2132b16e83f23",
+    "robots.txt": "bb4f8581f5b8181472a4e4fe5a8d582d89c5279c66cac67aced049c5e65b51b8",
+    "af3f342bfe267cc7e64f1a049457d657.txt": "1478af8af2e5cae5f68359bdc9f0eed3ec11eb6af2ea9587a68b7af5687ed57c"
+  },
+  "revision": "d161cbb6b7b1edba7436dce49c6a7ae00f52283f043bdfb04c60ccaac3f50ca9"
+}
